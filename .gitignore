@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+cache/
+logs/
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+.venv/
+venv/
+.idea/
+.vscode/
+.claude/
+

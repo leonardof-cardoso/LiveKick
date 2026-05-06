@@ -1,0 +1,15 @@
+.git/
+.gitignore
+.claude/
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.env.example
+Dockerfile
+cache/*.db*
+logs/
