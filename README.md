@@ -220,7 +220,3 @@ ou pelo painel web → aba **Logs**.
 - **Notícias vazias**: pode ser bloqueio temporário do Google News — o cache
   de 10 min já mitiga, mas tente novamente.
 
-## Licença
-
-Uso livre, sem garantia. As fontes (Football-Data, TheSportsDB, Google News,
-GE) têm termos próprios — respeite-os.
